@@ -1,13 +1,13 @@
-# Nome do meu projeto
+# Analise de Conteúdo Textual
 
-Rápida descrição do objetivo de fazer esse projeto
+Aplicação que quantifica as ocorrências de termos de um texto informado, auxiliando pesquisadores que se utilizam do método de análise de conteúdo para pesquisas qualtativas.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Analise de Conteúdo Textual**
+| :label: Tecnologias | Python, Flask
+<!-- | :rocket: URL         | https://url-deploy.com.br
+| :fire: Desafio     | https://url-do-desafio.com.br-->
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
